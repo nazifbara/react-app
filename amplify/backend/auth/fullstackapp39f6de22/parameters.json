@@ -1,8 +1,8 @@
 {
-    "identityPoolName": "fullstackappfb15d9ed_identitypool_fb15d9ed",
+    "identityPoolName": "fullstackapp39f6de22_identitypool_39f6de22",
     "allowUnauthenticatedIdentities": false,
-    "resourceNameTruncated": "fullstfb15d9ed",
-    "userPoolName": "fullstackappfb15d9ed_userpool_fb15d9ed",
+    "resourceNameTruncated": "fullst39f6de22",
+    "userPoolName": "fullstackapp39f6de22_userpool_39f6de22",
     "autoVerifiedAttributes": [
         "email"
     ],
@@ -28,10 +28,10 @@
     "userpoolClientReadAttributes": [
         "email"
     ],
-    "userpoolClientLambdaRole": "fullstfb15d9ed_userpoolclient_lambda_role",
+    "userpoolClientLambdaRole": "fullst39f6de22_userpoolclient_lambda_role",
     "userpoolClientSetAttributes": false,
-    "sharedId": "fb15d9ed",
-    "resourceName": "fullstackappfb15d9ed",
+    "sharedId": "39f6de22",
+    "resourceName": "fullstackapp39f6de22",
     "authSelections": "identityPoolAndUserPool",
     "authRoleArn": {
         "Fn::GetAtt": [
